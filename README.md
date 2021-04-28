@@ -7,7 +7,7 @@ In this work, I used a closeness distance to rank scientific papers for composin
 
 We use a survery paper as the benchmark, we collected 110 reference papers of the survey.
 
-The generated survey samples is presented here.
+The generated survey samples is presented [here](https://github.com/philipsun/gensurvey/tree/main/gensamples)..
 
 The original survey text and its reference text are parsed out as json files and presented here.
 
