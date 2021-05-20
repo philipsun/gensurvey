@@ -1,0 +1,1179 @@
+root
+Recent automatic text summarization techniques: a survey
+1-tIntroduction
+1.1-tNeed of text summarization
+In (Kallimani et-al. 2011):
+Keyword extraction – It is a text mining task of NLP. 0
+We modeled the problem of text summarization as an IR problem. 0
+Automatic text summarization has been in existence since 1950. 0.5
+Zipf'  s Laws is a tool to predict the frequency of words in a text. 0
+The large number of documents returned by IR systems need to be summarized. 0
+Hence identifying the context of word should be done in order to extract the word as key. 0
+Sentence selection is considered to be an important step in automatic text summarization. 0.5
+Hence,  analysis of text documents written in Telugu language for different applications is mandatory. 0
+The pre processing is a primary step to load the text into the proposed system which involves following stages. 0
+refers to the retrieval of unstructured records,  that is,  records consisting primarily natural language text. 0
+The solution to this problem is to combine the information retrieval tools with the automatic text summarization. 0 
+Information extraction is the process of automatically extracting structured meaningful data from unstructured text. 0.5
+2-tVarious types of text Summarization
+In (Wang and Li 2012):
+There are two types of rank aggregation. 0
+We evaluate and compare our proposed weighted consensus method with various combination methods(  e g. 0
+We evaluate and compare our proposed weighted consensus method with various baseline combination methods. 0
+For example,  DUC2002 data come from the Text REtrieval Conference(  TREC) ,  and DUC2004 data are from the Topic Detection and Tracking(  TDT)  research. 0
+Although various summarization approaches have been developed in literature,  few efforts have been reported on aggregating document summarization methods. 1
+Since different summarization systems rank the sentences in the document collection using various strategies,  the results from each system can be viewed as a ranking of the sentences. 1
+In (Gupta et-al. 2011):
+Measuring lexical similarity in the text. 0
+Stop words are then removed from the text. 0
+In this paper,  various shallow linguistic techniques are mentioned that rank the sentences in the text. 0.5
+Word Co occurrence Words can be related if they occur in common contexts. 0
+It seems obvious that sentence selection will not create fluent,  coherent text. 0
+We have used the General Architecture for Text Engineering(  GATE)  tool for POS tagging and searching the patterns of tags corresponding to these types of phrases e g. 0
+Still,  in some text unit,  this global topic is the central topic(  focus)  of the segment. 0
+Location provides clues that important sentences are located at predefined positions in the text. 0
+In (Goldstein et-al. 2000):
+Context. 0
+context. 0
+These types of summaries include. 0
+From these sets we are performing two types of experiments. 0
+Text passages ordered based on the occurrence of events in time. 0
+The user needs to be able to select or eliminate various sources. 0
+Include sufficient context so that the summary is understandable to the reader. 0
+The user needs to be able to zoom in on the context surrounding the chosen passages. 0
+The ability to combine text passages in a useful manner for the reader This may include. 0
+There are two types of situations in which multi document summarization would be useful. 0.5
+In (Gupta and Lehal 2010):
+Text summarization. 0
+The ANES text extraction system. 0
+In query based text summarization.0 
+Automatic text summarization system. 0
+Extractive text summarization process. 0
+Text summarization with neural networks. 0.5
+Query based extractive text summarization.  0.5
+Add the structural context of the sentence. 0
+Multilingual Extractive Text summarization. 0.5
+Automatic text summarization based on fuzzy logic. 0
+is a very important aspect for text summarization. 0
+An approach to concept obtained text summarization. 0
+is a good model to estimate the text feature weights. 0
+,  in a text is one of good feature for text summarization. 0
+In (Kallimani et-al. 2011):
+Keyword extraction – It is a text mining task of NLP. 0
+Automatic text summarization has been in existence since 1950. 0.5
+We modeled the problem of text summarization as an IR problem. 0.5
+Zipf'  s Laws is a tool to predict the frequency of words in a text. 0
+Hence identifying the context of word should be done in order to extract the word as key. 0
+Sentence selection is considered to be an important step in automatic text summarization. 0
+Hence,  analysis of text documents written in Telugu language for different applications is mandatory. 0
+The pre processing is a primary step to load the text into the proposed system which involves following stages. 0
+In (Kulkarni and Prasad 2010):
+The significant text features considered in the proposed system are. 0
+Finally,  we extract the relevant sentences from the input text 1375. 0
+Text summarization based on evolutionary connectionist and fuzzy techniques. 0
+The set of chromosomes are obtained for every sentence in the text document. 0
+The proposed automated text summarization system consists of five components. 
+Over the past half a century,  the problem of text summarization has been addressed from many different perspective,  in various domains and using various paradigms. 0
+We have developed automatic text summarization system with three different approaches. 0
+In (Huang et-al. 2010):
+(  4)  Text Cohesion(  text coh). 0
+Terms are clustered based on the three types of relations among them,  i e. 0
+Information is rather conceptual,  but a summary is the text written in a language. 0
+} 1 2 n T = t t t,  from documents D based on term co occurrence statistics provided with the query context. 0
+First,  the core terms based text representation seems work well for the task of query oriented summarization. 0
+In particular,  we formulate four objective functions,  namely information coverage,  significance,  redundancy and text coherence. 0
+Therefore,  the generated summary should be the readable and comprehensible text,  rather than simply a heap of important but disconnected words or phrases. 0
+In (Neto et-al. 2000):
+document clustering and text summarization. 0
+First,  it applies case folding to the text. 0
+” is merely separating parts of atextual string - e g. 0
+“ Text summarization is still an emerging field,  and serious questions remain concerning the appropriate methods and types of evaluation. 0
+The main differences between data mining and text mining is as follows. 0
+effective in determining the relevance of the full text source to a topic. 0
+Sentences with high values of TFISF are selected to producea summary of the source text. 0
+Then the user can run two kinds of text mining algorithms on the preprocessed documents. 0
+In (Fang et-al. 2015):
+are widely implemented in text mining Dictionary Learning. 0
+Word frequency is a kind of widely used feature for text mining. 0
+Large margin Group normSubmodular function Text image summarization. 0
+are widely used for the evaluation of text summarization performance. 0
+Thus,  we totally define 13 feature groups for the text summarization task. 0
+In our experiment,  we use both ROUGE1 and ROUGEL to evaluate the performance of text summarization methods. 0
+For text summarization task,  among the unsupervised methods,  the Document Summarization based on Data Reconstruction(  DSDR). 0
+In (0035):
+In text summarization we can employ the same idea. 0
+After thepreprocessing step each text element(  cid. 0
+150)  a sentence in the case of text summarization(  cid. 0
+TIPSTER Text Summarization Evaluation Conference(  SUMMAC). 0
+150)  to cover all relevant information of the oft he text. 0
+Automatic Text Summarization Using a Machine Learning Approach 213. 0
+,  text processing tasks frequently use features based on IR measures. 0
+150)  extracted from a simplified argumentative structure of the oft he text. 0
+150)  based on the frequency of some elements in the text and linguistic(  cid. 0
+In (Patel et-al. 2007):
+Nouns are considered to contain richness of context. 0
+Thus at various locations,  important sentences may exist. 0
+Partition the text as suggested in the previous subsection(  i e. 0
+The whole text is partitioned into number of parts as per following scheme. 0
+Location feature depends on the genre of the text document and author s style. 0
+Two types of intrinsic evaluations are generally carried out in summarization. 0
+Two approaches are generally followed for automatic text summarization research. 0
+However in some cases,  we found the flow of the summarized text not to be very smooth. 0
+In (Kabadjov et-al. 2010):
+We discuss the context and motivation for developing the system and provide an overview of its architecture. 0
+The system employs text mining techniques to provide a picture of the present situation in the World(  as conveyed in the media). 0
+The SVD approach has the advantage of being language independent and has proven to be an effective summarization method yielding stateoftheart performance in international evaluation efforts such as those of the Text Analysis Conference(  TAC). 0
+The summarization method employed yielded stateoftheart performance for English at the Update Summarization task of the last Text Analysis Conference(  TAC)  2009 and integrated with EMM represents the first online summarization system able to produce summaries for so many languages. 0
+In (Gupta V 2013):
+Automatic text summarization. 0
+Text in blue line indicates title line. 0
+Text in black color indicates Hindi text. 0
+Text in Red color indicates Punjabi text. 0
+Various features used for summarizing multilingual HindiPunjabi text are given below. 0
+Various features used in this algorithm for summarizing multilingual Hindi and Punjabi text are. 0
+context word feature,  word prefix,  word suffix,  POS information,  NE feature and various Gazetteer lists have been used. 0
+Hybrid Algorithm for multilingual HindiPunjabi Text Summarization. 0
+In (Alguliev et-al. 2011):
+It uses the weighting terms representation of the textual units. 0
+The proposed generic text summarization model is presented in Section 3. 0
+► We model unsupervised generic text summarization as an optimization problem. 0.5
+3-tClassification of extractive approaches for summary generation
+3.1-tStatistical based approaches
+In (Huang et-al. 2010):
+It obviously outperforms the Centroid based approach. 0
+a cluster of semantically or statistically related core terms). 0
+a cluster of semantically or statistically related core terms). 0
+CoreTerm and Centroid represent another two non optimization approaches that evaluate terms and selects sentences based on term importance. 0
+Terms are clustered based on the three types of relations among them,  i e. 0
+Consequently,  the objective functions are then formulated based on T and C. 0
+Three approaches have been proposed to cope with the multi objective optimization problem. 
+They measure the possible summaries based on the identified core terms and main topics(  i e. 
+The potential of optimization based document summarization models has not been well explored to date. 
+Otherwise,  the optimization solutions will degenerate to the traditional non optimization based(  e g. 
+These functions measure the possible summaries based on the identified core terms and main topics(  i e. 
+} 1 2 n T = t t t,  from documents D based on term co occurrence statistics provided with the query context. 
+First,  the core terms based text representation seems work well for the task of query oriented summarization. 
+Section 3 introduces query sensitive term ranking and clustering and proposes an optimization model based on it. 
+Since this algorithm utilizes both linguistic and statistical relations,  the more reliable clustering results can be expected. 
+Then the terms in documents are evaluated according to their biases to seed terms based on the probability distribution of co occurrence. 
+Considering their applicability to the automatic summarization task,  we just experiment with the first two approaches in this pilot study. 
+Most of the stateofchart summarization systems are based on extracting the most salient and non redundant sentences to composite the final summaries. 
+semantic relations provided in WordNet,  similarities based on JensenShannon divergence,  and the point wise mutual information between a pair of terms. 
+The encouraging results indicate that the multi objective optimization based framework for document summarization is truly a promising research direction. 
+It is worth noting that a real optimization based summarization method is different from the existing non optimization based methods in two remarkable aspects. 
+Then,  an algorithm based on stack decoder was developed to search for the best combination of the sentences that maximized the sum of the scores subject to the length constraint. 
+Three algorithms were presented and evaluated,  including a greedy approximate method,  a dynamic programming approach based on solutions to the knapsack problem,  and an exact algorithm that used an integer linear programming formulation of the problem. 
+Different from previous work which focused on single objective optimization,  we explicitly define multiple summary evaluation criteria and formulate them as separate objective functions which are measured based on query sensitive core terms and main topics built from core term clusters. 
+3.2-tTopic based approaches
+In (Harabagiu S, Lacatusu F 2005):
+In our work,  we consider two topic structures based on themes. 
+(  25 topics were selected at random. 
+Discovery of topic relevant information. 
+The first four methods are based on topic representations as described in Section 2. 
+We evaluated the quality of sentence extraction based on different representations of topics. 
+In Section 3,  we motivate the need for topic themes and propose a theme based representation. 
+With EM4,  we use a graph based topic representation based on TR5 Harabagiu and Maiorano 2002. 
+ComponentBased Evaluation 3; sentence ordering. 
+Figure 12(  b)  illustrates five topical paths. 
+The graph is traversed by several topical paths. 
+ComponentBased Evaluation 1; sentence extraction. 
+The best results were obtained by OM2,  which is based on the topic representation based on themes. 
+ComponentBased Evaluation 2; summary compression. 
+Two principles guide the uncovering of topical paths. 
+3.3-tGraph based approaches
+In (Zhao et-al. 2009):
+Query focused summarization Query expansion Graph based ranking. 
+Use the newly expanded query to perform graph based ranking algorithm again for sentence ranking. 
+In Section 3,  we present in detail our graph based summarization algorithm combined with query expansion. 
+Use a graph based ranking algorithm to rank all the sentences in the documents where the original query is used. 
+This query expansion method is combined in the graph based summarizer as another baseline system(  named as Synonym baseline). 
+Define two sets S = ϕ,  S si i = 1,  2,  …,  N,  and initialize the ranking score of each sentence to its graph based ranking score,  i e. 
+In this paper,  we propose a query expansion algorithm used in the graph based ranking approach for query focused multi document summarization. 
+3.4-tDiscourse based approaches
+In (Chan 2006):
+M is the number of discourse segments in the discourse. 
+Initial discourse network of the text Judy'  s Birthday. 
+Connection weight patterns among the discourse segments. 
+Percentage of discourse skeleton formed 0.26 0.20 0.23 0.29. 
+Percentage of discourse skeleton formed 0.38 0.31 0.34 0.42. 
+The corresponding discourse segments are shown in Figure   1. 
+In (Hirao et-al. 2013):
+This paper proposes a single document summarization method based on the trimming of a discourse tree. 
+In this paper,  we propose a single document summarization method based on the trimming of a discourse tree based on the Tree Knapsack Problem. 
+Second,  we formulate the problem of trimming a dependency based discourse tree as a Tree Knapsack Problem,  then solve it with integer linear programming(  ILP). 
+In (Carlson et-al. 2003):
+www isi edu mar cu discourse. 
+www isi edu mar cu discourse. 
+Results are based on presegmented documents. 
+The discourse sub tree for this text fragment is given in Figure 1. 
+3.5-tApproaches based on machine learning
+4-t Recent automatic text summarization extractive approaches
+4.1-tTrained summarizer and latent semantic analysis for summarization of text
+In (Yeh et-al. 2005):
+Text summarization Corpus based approach Latent semantic analysis Text relationship map. 
+Text summarization had its inception in s. 
+outperforms keyword based text summarization approaches. 
+We conclude that LSA can be employed to promote text summarization from keyword level analysis to semantic level analysis. 
+In this paper,  we propose two text summarization approaches. 
+Thus,  we conclude that LSA can be employed to promote text summarization from keyword level analysis to semantic level analysis. 
+Hence,  we conclude that LSA can be employed to promote text summarization from keyword level analysis to semantic level analysis. 
+This paper proposes two approaches to address text summarization. 
+The analysis phase analyzes the input text and selects a few salient features. 
+There are two sorts of methods to evaluate the performance of text summarization. 
+Two new ideas are employed to improve conventional corpus based text summarization. 
+(  1)  preprocessing, (  2)  semantic model analysis, (  3)  text relationship map construction,  and(  4)  sentence selection. 
+In this paper,  we propose two novel methods to achieve automatic text summarization. 
+analysis,  transformation,  and synthesis. 
+This phenomenon explains that LSA can derive more precise semantic meanings from a text. 
+In this experiment,  the feasibility of applying LSA to text summarization is evaluated. 
+The effect of LSA in text summarization is illustrated with an example shown in Table 17. 
+4.2-tInformation extraction using sentence based abstraction technique
+In (Murdock 2006):
+Other tasks such as information extraction and machine translation operate on sentences,  either using them as training data,  or as the unit of input or output(  or both) ,  and may benefit from sentence retrieval to build a training corpus,  or as a post processing step. 
+Tasks such as question answering,  summarization,  novelty detection,  and information provenance make use of a sentence retrieval module as a preprocessing step. 
+The performance of these systems is dependent on the quality of the sentence retrieval module. 
+We propose several solutions to the problem of sentence retrieval,  and investigate these solutions the application areas of sentence retrieval for question answering,  novelty detection,  and information provenance. 
+Sentence Retrieval is the task of retrieving a relevant sentence in response to a query,  a question,  or a reference sentence. 
+We show that the family of language modeling approaches,  which includes statistical translation models,  is not effective for discriminating between sentences that use the same vocabulary to express the same information,  and sentences that use the same vocabulary to express new information. 
+Finally,  we demonstrate a conditional model for sentence retrieval for question answering,  and show that it outperforms both the translation approaches and the baseline language modeling approach. 
+In this thesis we begin by demonstrating that because sentences are much smaller than documents,  the performance of typical document retrieval systems on the retrieval of sentences is significantly worse. 
+We show that statistical translation models are appropriate for tasks where the sentence to be retrieved has many terms in common with the query,  but still benefits from the addition of related terms and synonyms. 
+4.3-tText understanding and summarization through document concept lattice
+In (Ye et-al. 2007):
+Text summarization Document concept lattice Concept Semantic. 
+This task of document understanding(  Dang,  2005)  is a core issue in text summarization. 
+As a document concept model,  DCL has the following properties. 
+We now describe how to build the lattice from source documents. 
+Following our work in DUC 2005 and 2006,  we proposed a document concept lattice(  DCL)  model and the corresponding algorithm for summarization. 
+Answers appear frequently in the document set might be considered to be more crucial in understanding the source texts. 
+As such,  introduce a new data structure,  the document concept lattice,  that compactly represents such hanging structures. 
+How does one judge the content of a text. 
+Our summarizer based on the concept lattice has demonstrated competitive performance in Document Understanding Conference 2005 and 2006 evaluations as well as follow on tests. 
+Once words that represent unified concepts in the documents are linked,  we represent the sources as a document concept lattice(  DCL). 
+• The tests on DUC 2005 and 2006 indicate that both concept and DCL have significant contributions to the performance of text summarization. 
+We argue that the quality of a summary can be evaluated based on how many concepts in the original document(  s)  that can be preserved after summarization. 
+4.4-tSentence extraction through contextual information and statistical based summarization of text
+In (Gupta and Lehal 2010):
+Text summarization. 
+In query based text summarization. 
+Query based extractive text summarization. 
+The ANES text extraction system. 
+Automatic text summarization based on fuzzy logic. 
+Automatic text summarization system. 
+Extractive text summarization process. 
+Sentence weighting. 
+Sentence selection. 
+Font based feature. 
+The query based sentence extraction algorithm is as follows. 
+Text summarization based on fuzzy logic system architecture. 
+Text summarization with neural networks. 
+It is an extraction based multi document summarization system. 
+Cluster based method. 
+Multilingual Extractive Text summarization. 
+Add the structural context of the sentence. 
+Bayesian summarization. 
+Sentence Length feature. 
+is a very important aspect for text summarization. 
+An approach to concept obtained text summarization. 
+(  BAYESUM)  is a model for sentence extraction in query focused summarization. 
+Sentence location feature. 
+SentencetoCentroid Cohesion. 
+SentencetoSentence Cohesion. 
+Discourse level information. 
+,  in a text is one of good feature for text summarization. 
+Sentence Length CutO Feature. 
+This paper focuses on extractive text summarization methods. 
+An Abs tractive summarization. 
+The importance of sentences is decided based on statistical and linguistic features of sentences. 
+The importance of sentences is decided based on statistical and linguistic features of sentences. 
+The importance of sentences is decided based on statistical and linguistic features of sentences. 
+Selecting high scored sentences. 
+Text summarization using regression for estimating feature weights. 
+4.5-tSummarization of emails through conversational cohesion and subjective opinions
+In (Carenini et-al. 2008):
+Third,  we did not consider subjective opinions. 
+In Section 5,  we study summarization approaches with subjective opinions. 
+We integrate our best cohesion measure together with the subjective opinions. 
+We study how to summarize email conversations based on the conversational cohesion and the subjective opinions. 
+Subjective opinions are often critical in many conversations. 
+We adopt three cohesion measures. 
+As a third contribution of this paper,  we study how to make use of the subjective opinions expressed in emails to support the summarization task. 
+Moreover,  we study how to include subjective opinions to help identify important sentences for summarization. 
+SubjList is a list of words and phrases that indicate subjective opinions. 
+Table 3 shows the result of using subjective opinions described in Section 5. 
+Third,  we propose a summarization approach based on subjective opinions and integrate it with the graph based ones. 
+We explore three types of cohesion measures. 
+Our empirical evaluations show that subjective words and phrases can significantly improve email summarization. 
+The list of subjective words in(  Wilson et al,  2005). 
+In (Zajic et-al. 2008):
+The general problem of email summarization is not new. 
+We present two approaches to email thread summarization. 
+We call this approach individual message summarization(  IMS). 
+We term this the collective message summarization(  CMS)  approach. 
+We apply both methods to the problem of email thread summarization. 
+Email summarization Sentence compression Trimming Enron Informal media. 
+Finally,  evaluation issues in general present challenges for text summarization. 
+We attempted to present our summarization systems with text as clean as possible. 
+In (Carenini et-al. 2007):
+As we all know,  summarization is a subjective activity. 
+Text mining,  email summarization. 
+Email summarization can also be valuable for users reading emails with mobile devices. 
+hidden emails and significance of clue words. 
+Since we are studying multiple email summarization in a conversational context,  we required that each conversation contained at least 4 emails. 
+We compare CWS with other summarization approaches. 
+4.6-tSummarization of text through complex network approach
+In (Fattah and Ren 2009):
+The process of text summarization can be decomposed into three phases. 
+There are two types of summarization. 
+Recently many experiments have been conducted for the text summarization task. 
+The feed forward neural network structure. 
+The proposed automatic summarization model. 
+We have exploited the approach in Section 3.2. 
+We use the approach as described in Section 3.1. 
+This work proposes an approach to address the problem of improving content selection in automatic text summarization by using some statistical tools. 
+Moreover,  it is clear from Table 17 that this approach can be extended to the genre of news wire text. 
+We have exploited the MCBA + GA approach of Yeh et al,  for summarization as described in Section 4.2 using Eq. 
+The effect of each feature on summarization performance. 
+We are going to exploit the MCBA + GA approach of Yeh et al,  for summarization and use it as a baseline approach. 
+Use this feature vector as an input of the neural network. 
+Figure   2 shows the proposed automatic summarization model. 
+Most of the recent work in summarization uses this paradigm. 
+Our approach results outperform the baseline approach results. 
+Unlike LexRank feature,  Bushy path is a simple and an effective text feature for single and multi document summarization task. 
+Therefore,  we have exploited the 10 features for summarization. 
+Automated summarization dates back to the Fifties(  Luhn,  1958). 
+With the huge amount of information available electronically,  there is an increasing demand for automatic text summarization systems. 
+The different attempts in this field have shown that human quality text summarization was very complex since it encompasses discourse understanding,  abstraction,  and language generation(  Spar ck,  1993). 
+Therefore,  GA can be used to specify the weight of each text feature. 
+4.7-tAutomatic creation of generic document summaries through non-negative matrix factorization
+In (0017):
+We propose a new unsupervised method using Nonnegative Matrix Factorization(  NMF)  to select sentences for automatic generic document summarization. 
+Generally,  automatic generic document summarization methods can be divided into two categories. 
+(  1) ,  to summarize documents. 
+In this section,  we propose a method to create generic document summaries by selecting sentences using NMF. 
+The proposed algorithm for generic document summarization is as follows. 
+NMF denotes the proposed generic document summarization algorithm using NMF. 
+Yeh et al  (  2005)  proposeda new trainable summarizer for document summaries. 
+Our methods(  NMF)  and 4 other methods produce summaries using test documents. 
+Each document has a human produced summary. 
+We used the DUC2006 data set as test documents. 
+(  d)  nonzero ratios in case of 400×400 matrix A. 
+Matrix A is composed of 396 terms and 57 sentences. 
+It splits a document into a set of candidate sentences. 
+Li et al  (  2006)  extended generic multi document summarization usingLSA to query based document summarization. 
+In this paper,  we de ne the matrix notation as follows. 
+Their summarizer uses several kinds of document features. 
+A good generic summary should contain the major topics of the document and minimize redundancy(  Gong & Liu,  2001). 
+j be the jth column vector of matrix X,  Xi be the ith row. 
+This paper presents a novel generic document summarization method using the generic relevance of a sentence based onNMF. 
+Asa result,  LSArelated methods of document summarization may fail to extract meaningful sentences(  Lee & Seung,  1999; Zha,  2002)  In this paper,  we propose a new unsupervised generic document summarization method using Nonnegative Matrix Factorization(  NMF). 
+LSA decomposes Matrix A into U,  D,  and V,  as shown in Figure   a. 
+4.8-tAutomatic text summarization using MR, GA, FFNN, GMM and PNN based models
+In (Fattah and Ren 2009):
+The proposed automatic summarization model. 
+Figure   2 shows the proposed automatic summarization model. 
+The process of text summarization can be decomposed into three phases. 
+The structure of PNN implementation. 
+This work proposes an approach to address the problem of improving content selection in automatic text summarization by using some statistical tools. 
+The PNN approach performance evaluation based on precision(  Arabic case). 
+The GMM approach performance evaluation based on precision(  Arabic case). 
+The PNN approach performance evaluation based on precision(  English case). 
+The GMM approach performance evaluation based on precision(  English case). 
+There are two types of summarization. 
+After that we used all models for the summarization task using the maximum likelihood of each category as follows. 
+All models performance evaluation based on precision(  Arabic testing data). 
+All models performance evaluation based on precision(  English testing data). 
+All models performance evaluation based on precision(  DUC 2001 testing data). 
+Recently many experiments have been conducted for the text summarization task. 
+Training mode where features are extracted from 100 manually summarized Arabic documents and 50 manually summarized English documents(  50 not 100 to investigate the training data set size effect on summarization performance)  and used to train GA,  MR,  FFNN,  PNN and GMM models. 
+With the huge amount of information available electronically,  there is an increasing demand for automatic text summarization systems. 
+Table 17 shows the results of all models for the DUC 2001 testing data based on precision. 
+All models performance evaluation based on the average Rouge score(  DUC 2001 testing data). 
+Use this feature vector as an input of the GMM. 
+(  10)  after using the defined weights from W. 
+(  10)  after using the defined weights from W. 
+In this section,  we investigate the effect of each feature parameter on summarization by using Eq. 
+In this paper,  we have investigated the use of genetic algorithm(  GA) ,  mathematical regression(  MR) ,  feed forward neural network(  FFNN) ,  probabilistic neural network(  PNN)  and Gaussian mixture model(  GMM)  for automatic text summarization task. 
+4.9-tQuery-based summarization of multiple documents by applying regression models
+In (Cao et-al. 2015a):
+Graph based models play a leading role in the summarization area. 
+Note REGSUM is a kind of uni gram regression. 
+We consider three support machine regression baselines. 
+As for multiple references,  we choose the maximal value. 
+This metric just adopts regression results at root nodes. 
+R2N2 makes three contributions to multi document summarization. 
+For summarization,  words hold different importance in different documents,  which cannot be represented by a global word embedding. 
+• It transforms sentence ranking into a hierarchical regression task. 
+Finally,  different kinds of regression are conducted over the tree(  Eq. 
+Work on extractive generic summarization spans a large range of approaches. 
+Second,  it measures the importance of the node through a regression process. 
+Models of(  Wan and Yang 2008)  carry out a bit larger ROUGE1 score than R2N2. 
+Sentence ranking has been extensively investigated in extractive summarization. 
+Our model achieves higher ROUGE scores than stateoftheart summarization approaches. 
+First,  we are interested in applying R2N2 for query focused summarization,  which can be achieved by introducing query related features to the input of the neural networks. 
+In (Fattah and Ren 2009):
+There are two types of summarization. 
+The proposed automatic summarization model. 
+Furthermore,  we use trained models by one language to test summarization performance in the other language. 
+The effect of each feature on summarization performance. 
+After that we used all models for the summarization task using the maximum likelihood of each category as follows. 
+In matrix notation,  we can represent regression as follow. 
+4.10-tMaximum coverage and minimum redundancy in summarization of text
+In (Alguliev et-al. 2011):
+Redundancy. 
+Text summarization Maximum coverage Less redundancy Integer linear programming Particle swarm optimizationBranchandbound. 
+In Takamura and Okumura(  2009) ,  Takamura and Okamura represented text summarization as maximum coverage problem with knapsack constraint. 
+The proposed generic text summarization model is presented in Section 3. 
+► We model unsupervised generic text summarization as an optimization problem. 
+In these tables through MCMR(  Maximum Coverage and Minimum Redundant)  denoted our model with the objective function f. 
+Many approaches have been proposed for text summarization based on the diversity. 
+single and multi document summarization. 
+ROUGE is adopted by DUC as the official evaluation metric for text summarization. 
+In particular,  we model text summarization as an integer linear programming problem. 
+In particular,  we model text summarization as an integer linear programming(  ILP)  problem. 
+redundancy in a summary will not be minimized. 
+In Takamura and Okumura(  2009) ,  text summarization formalized as a budgeted median problem. 
+summary should contain informative textual units that are relevant to the user(  2)  redundancy. 
+There are two approaches for document summarization. 
+As it is known(  Aliguliyev,  2010) ,  the similarity measure plays an important role in text summarization. 
+We represent generic text summarization model as an optimization problem and attempt to globally solve the problem. 
+We implemented our model on multi document summarization task. 
+MMR maximizes marginal relevance in retrieval and summarization. 
+It uses the weighting terms representation of the textual units. 
+Filatova and Hatzivassiloglou(  2004)  modeled extractive document summarization as a maximum coverage problem that aims at covering as many conceptual units as possible by selecting some sentences. 
+McDonald(  2007)  formalized text summarization as a knapsack problem and obtained the global solution and its approximate solutions. 
+The diversity is very important evidence serving to control the redundancy in the summarized text and produce more appropriate summary. 
+Here,  we implemented our model on multi document summarization task. 
+In paper,  we propose an unsupervised text summarization model which generates a summary by extracting salient sentences in given document(  s). 
+4.11-tSummarization of documents through a progressive technique for selection of sentences
+4.12-tEvaluation of sentence scoring methods for extractive summarization of text
+In (Gupta and Lehal 2010):
+Text summarization. 
+Extractive text summarization process. 
+Query based extractive text summarization. 
+Multilingual Extractive Text summarization. 
+In (Ferreira et-al. 2013):
+• Sentence scoring. 
+Extractive summarization Sentence scoring methods Summarization evaluation. 
+TextRank Score. 
+Sentence fusion. 
+In (0035):
+150)  a sentence in the case of text summarization(  cid. 
+TIPSTER Text Summarization Evaluation Conference(  SUMMAC). 
+150)  in summarization. 
+In (Wang and Li 2012):
+• Other methods. 
+• Graph based methods. 
+• Centroid based methods. 
+There are several most widely used extractive summarization methods as follows. 
+In (Nobata et-al. 2001):
+Automated text summarization. 
+1)  th sentence Score(  cid. 
+ni cance score of sentences. 
+The fth scoring function is to use these queries to set signi cance of sentences. 
+In (Kulkarni and Prasad 2010):
+Evaluation measure. 
+Fuzzy logic scoring. 
+Summarization algorithm module. 
+Word similarity among sentences. 
+Sentence selection and assembly. 
+In (Aliguliyev 2009):
+In our study we focus on sentence based extractive summarization. 
+For evaluation the results we use two methods. 
+In our study we focus on sentence based extractive document summarization. 
+In (Kallimani et-al. 2011):
+Sentence selection is considered to be an important step in automatic text summarization. 
+Automatic text summarization has been in existence since 1950. 
+We modeled the problem of text summarization as an IR problem. 
+In (Shen et-al. 2007):
+Similarity to Neighboring Sentences. 
+Many methods,  including supervised and unsupervised algorithms,  have been developed for extractive document summarization. 
+We use two methods to evaluate the results. 
+In (Patel et-al. 2007):
+Dropping the sentence. 
+Let that sentence be Si. 
+There are two main methods widely used for evaluation. 
+3.2 Sentence Reference Index. 
+In (Barrera and Verma 2012):
+,  TextRank sentence extraction. 
+and TextRank sentence extraction. 
+Two main methods of summarization are. 
+verbs)  in sentence Si. 
+In (Alguliev et-al. 2011):
+(  Evaluation). 
+ROUGE is adopted by DUC as the official evaluation metric for text summarization. 
+abs tractive and extractive. 
+In (Fang et-al. 2015):
+Topics Methods. 
+Metrics Methods. 
+Metrics Methods. 
+Metrics Methods. 
+Metrics Methods. 
+Data set Methods. 
+for extractive multi document summarization. 
+In (Huang et-al. 2010):
+MMR like)  methods. 
+(  4)  Text Cohesion(  text coh). 
+Section 2 reviews existing optimization methods for document summarization. 
+In (Ferreira et-al. 2014):
+Input text. 
+Vertex TextRank score. 
+Multi document summarization Extractive summarization Sentence clustering. 
+In (Liu et-al. 2009):
+Sentence Compression. 
+Document summarization can be categorized as either extractive or abs tractive. 
+4.13-tExploring correlations among multiple terms through a graph-based summarizer, GRAPHSUM
+In (Baralis et-al. 2013):
+to discover relevant correlations among data. 
+The GraphSum summarizer. 
+• using association rules in graph based summarization to represent correlations among multiple terms,. 
+,  GraphSum is a graph based approach that discovers and exploits association rules to also consider the high order correlations among multiple terms. 
+The correlations among multiple terms are extracted using an established data mining technique,  i e,  association rule mining. 
+To represent the most significant correlations among multiple terms a graph based model,  named correlation graph,  is generated. 
+It discovers and exploits association rules to represent the correlations among multiple terms that have been neglected by previous approaches. 
+In fact,  on the one hand,  since they do not consider the underlying correlations among multiple terms,  some relevant facets of the analyzed data could be disregarded. 
+,  the summarizer presented in this paper relies on a general purpose,  graph based approach that discovers and exploits high order correlations among multiple document terms. 
+GraphSum 0.016 0.157 0.029 0.005 0.005 0.006. 
+GraphSum 0.012 0.135 0.022 0.004 0.004 0.004. 
+GraphSum 0.010 0.085 0.017 0.004 0.003 0.005. 
+GraphSum 0.042 0.299 0.073 0.015 0.108 0.027. 
+In (Baralis et-al. 2012):
+Among them,. 
+proposed to represent correlations among sentences by means of a graph based model. 
+However,  previous approaches typically focus on single word significance while do not effectively capture correlations among multiple words at the same time. 
+Frequent item set items et mining is a well established data mining technique to discover correlations among data. 
+At equal terms,  the sentence with maximum relevance score(  Cf. 
+From a transactional representation of the document collection,  an highly informative and not redundant itemsetbased model is extracted to represent significant higher order correlations among document terms. 
+4.14-tIncorporating various levels of language analysis for tackling redundancy in text summarization
+4.15-tEvolutionary optimization algorithm for summarizing multiple documents
+In (Huang et-al. 2010):
+Second,  the performance of the multi objective optimization is noticeable. 
+Section 2 reviews existing optimization methods for document summarization. 
+It requires the simultaneous optimization of more than one objective function. 
+In this paper,  we consider query oriented document summarization as global optimization. 
+Three approaches have been proposed to cope with the multi objective optimization problem. 
+However,  they did not explicitly assess information redundancy in their optimization model. 
+We also borrow the meta heuristics provided in a multi objective optimization solution tool. 
+In this study,  we consider document summarization as a multi objective optimization problem. 
+However,  as argued in the literature,  local greedy algorithms rarely found the best summary. 
+The potential of optimization based document summarization models has not been well explored to date. 
+Otherwise,  the optimization solutions will degenerate to the traditional non optimization based(  e g. 
+} 1 2 n T = t t t,  from documents D based on term co occurrence statistics provided with the query context. 
+Section 3 introduces query sensitive term ranking and clustering and proposes an optimization model based on it. 
+It concerns the extent to which the information provided in original documents is included in the generated summary. 
+4.16-tSummarization of multiple documents using a hybrid machine learning model
+4.17-tImproving clustering at sentence-level with the help of ranking-based technique for theme-based summarization
+In (Yang et-al. 2014):
+and clustering. 
+Ranking based clustering Sentence clustering Theme based summarization. 
+Section 2 reviews related work on sentence clustering for summarization. 
+Two popular techniques for avoiding redundancy in summarization are Maximal Marginal Relevance(  MMR). 
+Beside,  we use three level co clustering frameworks. 
+The figures demonstrate the significant role of the proposed ranking based clustering framework in summarization. 
+As a result,  quality of sentence clustering is enhanced. 
+Our final aim is to generate more accurate summarization. 
+Once a clustering is given on the original graph G,  i e. 
+Section 4 presents ranking based sentence clustering framework and their application to multi document summarization. 
+It has been applied to sentence clustering by Islam and Ink pen. 
+(  2)  Ranking based sentence clustering framework is developed. 
+Based on it,  a ranking based sentence clustering framework is developed. 
+These factors influence the accuracy of sentence clustering to some extent. 
+On the other hand,  clustering offers an alternative that the summarization system clusters the input textual units before starting the selection process. 
+In this section,  we introduce a ranking based sentence clustering framework. 
+It further indicates the fact that good clusters bring about good summarization. 
+During clustering,  sentences are the objects first to be clustered at each iteration,  and links to the documents and terms are used to help clustering sentence. 
+In (Radev et-al. 2001):
+search,  summarization,  clustering,  and recommendation. 
+No clustering is done in the system. 
+Summarization is very helpful for users to absorb large quantities information. 
+The main technique that we use for summarization is centroid based sentence extraction. 
+No clustering is done in his prototype system. 
+The clustering engine is deigned to address this issue. 
+The input to the summarization component is a cluster of documents. 
+Multi document summarization is also not supported by their system. 
+4.18-tStatistical and linguistic based summarization system for multiple documents
+In (Goldstein et-al. 2000):
+of the space that the documents span). 
+Summary from Common Sections of Documents. 
+In the previous section we discussed the requirements for a multi document summarization system. 
+This paper presented a statistical method of generating extraction based multi document summaries. 
+In the previous sections we discussed the requirements and types of multi document summarization systems. 
+Conventional IR systems find and rank documents based on maximizing relevance to the user query(  Salton,  1970; van Rijsbergen,  1979; Buckley,  1985; Salton,  1989). 
+Summary from Common Sections and Unique Sections of Documents. 
+Text passages ordered based on the occurrence of events in time. 
+The ability to find and extract the main points across documents. 
+Summaries of the individual documents would help,  but are likely to be very similar to each other,  unless the summarization system takes into account other summaries that have already been generated. 
+In (Gupta and Lehal 2010):
+In query based text summarization. 
+Automatic text summarization system. 
+Font based feature. 
+Text summarization. 
+Text summarization based on fuzzy logic system architecture. 
+It is an extraction based multi document summarization system. 
+Query based extractive text summarization. 
+Cluster based method. 
+Bayesian summarization. 
+In query specific opinion summarization system. 
+Automatic text summarization based on fuzzy logic. 
+An Abs tractive summarization. 
+The importance of sentences is decided based on statistical and linguistic features of sentences. 
+In (Banerjee et-al. 2015):
+Linguistic Quality. 
+Graph based techniques have also been very popular in summarization. 
+Ngram based ROUGE,  where N,  denotes the. 
+Based on human judgments,  our abs tractive summaries are linguistically preferable than the baseline abs tractive summarization technique. 
+used naturallanguagegeneration(  NLG)  systems. 
+Hence,  we have six different systems in total. 
+Abs tractive summarization is an ideal form of summarization since it can synthesize information from multiple documents to create concise informative summaries. 
+4.19-tMulti-document summarization based information retrieval using event graphs
+4.20-textractive summarization of single documents through genetic operators and guided local search
+4.21-t Topic-aspect based summarization through selection of groups
+In (Wang and Li 2012):
+• Graph based methods. 
+• Centroid based methods. 
+• Graph based combination(  graph). 
+• Correlation based weighting(  CW). 
+• Weighted consensus summarization(  WCS). 
+Each of the individual summarization methods ranks the sentences based on different criteria. 
+Multi document summarization Weighted consensus. 
+Other graph based summarization have been proposed in Mihalcea and Tarau,  2005,  Wan and Yang,  2008. 
+Some query based summarization systems are also proposed(  Gold stein et al,  1999,  Wan and Yang,  2007). 
+a graph based summarization method recommending sentences by the voting of their neighbors(  Erk an & Radev,  2004). 
+In extractive summarization the important sentences are selected from original documents based on their assigned scores. 
+Then the sentences are ranked based on their points obtained. 
+Multi document summarization has been widely studied recently. 
+In this paper we focus on extractive multi document summarization. 
+Our proposed weighted consensus summarization is studied in Section 3. 
+This scheme is consistent with the strategies in most cluster based summarization methods on selecting sentences with different summary lengths. 
+Finally the sentences are re ranked reran ked based on their average scores. 
+In this paper,  we use four individual summarization methods as the baselines. 
+There are several most widely used extractive summarization methods as follows. 
+Other methods include CRFbased summarization(  Sh en,  Sun,  Li,  Yang,  & Chen,  2007) ,  and hidden Markov model(  HMM)  based method(  Conroy & O’Leary,  2001). 
+For example,  Language Computer Corporation(  LCC) (  LCC,  xx xx) ,  a DUC participant,  that proposes a system combining the question answering and summarization system and using knearest neighbor clustering based on cosine similarity for the sentence selection. 
+4.22-tSummarization of multiple documents based on social Folksonomy by analyzing semantically
+In (Heu et-al. 2015):
+Finally,  we create a summary of multiple documents by analyzing the importance of each word and its semantic relatedness to others. 
+In this paper,  we propose FoDoSu which is a novel multi document summarization system using tag clusters from a Folksonomy system to detect the key sentences in multiple documents. 
+Many approaches to multi document summarization have used probability based methods and machine learning techniques to simultaneously summarize multiple documents sharing a common topic. 
+In this paper,  we propose a novel multi document summarization system,  called FoDoSu(  Folksonomybased MultiDocument Summarization) ,  that employs the tag clusters used in Folksonomy systems to detect key sentences in multiple documents. 
+To overcome these drawbacks,  we propose a novel multi document summarization system FoDoSu that employs tag clusters of the Folksonomy system to detect the key sentences in multiple documents. 
+More recently,  multi document summarization techniques have been researched to summarize multiple documents sharing a common topic at the same time. 
+For this purpose,  we exploit the tag clusters used by Flickr,  one of the most representative Folksonomy systems,  for summarizing multiple documents. 
+For this purpose,  we exploit the tag clusters used by Flickr,  one of the most representative Folksonomy systems,  for summarizing multiple documents. 
+To overcome these drawbacks,  we propose a novel multi document summarization system called FoDoSu,  or Folksonomybased MultiDocument Summarization,  that employs the tag clusters used by Flickr,  a Folksonomy system,  for detecting key sentences from multiple documents. 
+4.23-tOther text summarization approaches
+4.23.1-tLearning-based approach for summarizing related sentences
+4.23.2-tSemantic role labeling with minimal resources
+In (Khan et-al. 2015):
+First,  it employs semantic role labeling for semantic representation of text. 
+Semantic Similarity Matrix Output. 
+semantic role labeling(  SRL) ,  partofspeech(  POS)  tags,  named entity recognition(  NER)  and chunking(  CHK). 
+After applying semantic role labeling to sentence S,  the corresponding two predicate argument structures are obtained as follows. 
+The corresponding simple predicate argument structures P and P are obtained after applying semantic role labeling to sentences S and S. 
+In this framework,  contents of the source documents are represented by predicate argument structures by employing semantic role labeling. 
+First,  it employs semantic role labeling to extract predicate argument structure(  semantic representation)  from the contents of input documents. 
+These phrases are referred to as semantic arguments. 
+4.23.3-tSummarizing single documents through nested tree structure
+4.23.4-tTwo-level sparse representation model for summarization of multiple documents
+In (Liu et-al. 2015):
+In fact,  our model incorporate a two level sparse representation model. 
+two level sparse representation model age,  sparsity and diversity together in multi document summarization. 
+Then atwolevel sparse representation model is devised to extract all the salient sentences. 
+Algorithm 2 SparseCoding(  S ∗,  S). 
+Algorithm 1 MDSSparse AlgorithmInput. 
+The summary set is a sparse representation of the original document set Level. 
+We design a two level sparse representation model to extract multi document summarization The original document set is sparsely represented by summary sentences. 
+Based on the data reconstruction and sentence de noising assumption,  we present a twolevelsparse representation model to depict the process ofmultidocument summarization. 
+4.23.5-tSparse-coding based reader-aware summarization system for multiple documents
+In (Wang and Li 2012):
+• Graph based methods. 
+• Centroid based methods. 
+Some query based summarization systems are also proposed(  Gold stein et al,  1999,  Wan and Yang,  2007). 
+• Graph based combination(  graph). 
+• Correlation based weighting(  CW). 
+In extractive summarization the important sentences are selected from original documents based on their assigned scores. 
+• Weighted consensus summarization(  WCS). 
+In this paper,  we study four most widely used multi document summarization systems(  i e. 
+Each of the individual summarization methods ranks the sentences based on different criteria. 
+4.23.6-tSummarization of multiple documents through recursive neural networks based ranking approach
+In (Cao et-al. 2015a):
+This process is modeled by recursive neural networks(  RNN). 
+We develop a Ranking framework upon Recursive Neural Networks(  R2N2)  to rank sentences for multi document summarization. 
+To this end,  we develop a ranking framework upon recursive neural networks(  R2N2)  to rank sentences for multi document summarization. 
+This paper presents a Ranking framework upon Recursive Neural Networks(  R2N2)  for the sentence ranking task of multi document summarization. 
+It transforms the ranking task into a hierarchical regression process which is modeled by recursive neural networks. 
+Graph based models play a leading role in the summarization area. 
+In this parsing tree,  recursive neural networks measure the importance of all these non terminal nodes. 
+4.23.7-tGraph-based extractive summarization by considering importance, non-redundancy and coherence
+In (Parveen and Strube 2015):
+importance,  coherence value and redundancy Variables. 
+the coherence of the summaries. 
+We propose a graph based method for extractivesingledocument summarization which considers importance,  non redundancy and local coherence simultaneously. 
+Hence,  we optimize importance,  non redundancy and coherence simultaneously. 
+Control ow of our summarization method. 
+Our work is based on the graph based extractive summarization technique developed by Parve en and St rube,  2014. 
+These judgements show that our system takes care of coherence. 
+Only sentences maximizing the coherence value will be selected. 
+4.23.8-tSparse optimization based compressive document summarization
+4.23.9-t Submodular mixtures based summarization of multi-document hierarchy of topics
+In (Bairi et-al. 2015):
+KMedtopics. 
+Penalty based diversity. 
+Feature based Functions. 
+Topics higher up in the hierarchy are abstract and less specific. 
+Let G(  V,  E)  be the DAG structured topic hierarchy with V topics. 
+Several real world machine learning applications involve hierarchy based categorization of topics for a set of objects. 
+QC Functions As Barrier Modular Mixtures. 
+Set S ∗ is the summary topics scored best. 
+The final DAG had about M topics and M links. 
+KMedoids run on topics as TFIDF vectors of words. 
+Wikipedia s category hierarchy consists of more than M categories(  topics)  arranged hierarchically. 
+Let S be the inferred topics and T be the true topics. 
+A summary set of topics should cover most of the documents. 
+It assumes an existing label hierarchy in the form of a tree. 
+4.23.10-tDisaster summarization through prediction of salient updates
+In (Kedzie et-al. 2015):
+Several researchers have recognized the importance of summarization during natural disasters. 
+We refer to these selected sentences as updates. 
+The AP+SALIENCE model is better able to find salient updates earlier on for the disaster domain,  this is an especially important quality of the model. 
+The resultant list of updates U is our summary of the event. 
+add the most novel and salient exemplars to U(  Section 3.4). 
+(  Wang and Li,  2010)  present a clustering based approach to efficiently detect important updates during natural disasters. 
+Our system predicts sentence salience in the context of a large scale event,  such as a disaster,  and integrates these predictions into a clustering based multi document summarization system. 
+4.23.11-tSummarizing multiple documents through system combination
+In (Goldstein et-al. 2000):
+of the space that the documents span). 
+Summary from Common Sections of Documents. 
+,  a linear combination of both criteria is optimized. 
+Summary from Common Sections and Unique Sections of Documents. 
+The ability to find and extract the main points across documents. 
+In such cases,  the system needs to be able to track and categorize events. 
+This is the focus of our work reported here,  including the necessity to eliminate redundancy among the information content of multiple related documents. 
+These latter two terms allow for a fuller coverage of the clusters and documents. 
+4.23.12-tPhrase-based compressive cross-language summarization
+4.23.13-t Re-evaluation of automatic summarization using BLEU and 192 variants of ROUGE
+In (Graham 2015):
+ROUGE2 prec. 
+An analysis of evaluation of summarization metrics was provided with an evaluation of BLEU and 192 variants of ROUGE. 
+In total,  therefore,  when employing ROUGE for the evaluation of summarization systems,  there are 192(  8 x 2 x 2 x 3 x 2)  possible system level variants to choose from. 
+In Table 1,  • identifies variants of ROUGE not significantly outperformed by any other variant. 
+Table 3 shows ROUGE scores for summarization systems originally presented in Hong et al  (  2014). 
+Since the inception of BLEU,  evaluation of automatic metrics in MT has been by correlation with human assessment. 
+Table 2 shows proportions of optimal ROUGE variants that can be attributed to each of ROUGE’s configuration options. 
+4.24-tPro and Cons
+5-tComparison of recent automatic text summarization extractive approaches
+6-tAbstractive approaches for text summarization
+In (Kallimani et-al. 2011):
+Automatic text summarization has been in existence since 1950. 
+We modeled the problem of text summarization as an IR problem. 
+The many other uses of summarization are. 
+Sentence selection is considered to be an important step in automatic text summarization. 
+Here we propose to use statistical approaches. 
+This is the primary application of summarization. 
+Keyword extraction – It is a text mining task of NLP. 
+The solution to this problem is to combine the information retrieval tools with the automatic text summarization. 
+In this paper we discussed the different statistical approaches for abs tractive summarization in Telugu language. 
+Extractive and abs tractive summarization Stemming Information retrieval Automatic text summarization Word count frequency. 
+Zipf'  s Laws is a tool to predict the frequency of words in a text. 
+Text summarization provides the users with condensed description of documents and a non redundant presentation of facts found in the document. 
+So,  different approaches can be used for the development of efficient tagger. 
+The merits of automatic summarization of text are to control the size,  and prediction of content,  which could identify the relation between summarized text and the main text. 
+Hence identifying the context of word should be done in order to extract the word as key. 
+The previous work in automatic summarization has completely focused on extractive summarization,  in which key sentences are identified from the source text and extracted to form the output. 
+Hence,  analysis of text documents written in Telugu language for different applications is mandatory. 
+Further,  machine learning based approaches gives somewhat better results as compared to other approaches. 
+Different machine learning approaches to be addressed to get more appropriate summaries for the given document. 
+refers to the retrieval of unstructured records,  that is,  records consisting primarily natural language text. 
+The pre processing is a primary step to load the text into the proposed system which involves following stages. 
+Most of these summarization approaches aim for selecting the most informative sentences,  while less attempt has been made to generate abs tractive summaries or compress the extracted sentences and merge them into a concise summary. 
+In (Mani and Maybury 1999):
+Also noticeably absent is reference to web document summarization and any unique characteristics introduced by this medium. 
+It is expected that the proceedings from the May 2000 SummarizationWorkshop of ANLP will contain papers covering web document summarization. 
+The framework is based on understanding the essential context factors of Input(  form,  subject,  unit) ,  Purpose(  situation,  audience,  use) ,  and Output(  material,  format,  style). 
+The nal paper in this section report son reports on the TIPSTER evaluation task,  the largest summarization evaluation program conducted by an organization extrinsic to a system s developers. 
+Classical Approaches CorpusBased Approaches Exploiting DiscourseStructure; KnowledgeRich Approaches Evaluation Methods,  and New SummarizationProblem Areas.Following the general introduction is an excellent piece by Karen Spar ck Jones that provides a framework for understanding the task of summarization and calls for a doable research strategy that should serve to provide useful technology in the near future using what is already known in NLP. 
+Approaches to evaluation are divided into extrinsic where a summary is judged according to how much it contributes to the accomplishment of a particular task,  and intrinsic wherein the quality of a summary is judged directly without reference to a particular task. 
+In (Gupta et-al. 2011):
+Measuring lexical similarity in the text. 
+Stop words are then removed from the text. 
+We intend to include additional criteria and plan to exploit text coherence patterns for summarization(  ef. 
+Document summarization methods have been in notice for a long time and new approaches are coming up very sporadically. 
+Automatic summarization one such reductive technique allowing the Computer to summa rise the longer text to shorter non redundant form. 
+The following phases of the summarization process can be identified. 
+There are several approaches to Text Summarization,  such as those proposed by(  Hovy and Mar cu 1998; Mani and May bury 1999; Tucker 1999; Radev 2000; May bury and Mani 2001; Mani 2001; Alonso and Castellon 2001). 
+In this paper,  we use(  Mani and May bury 1999) '  s classification to describe the level at which several summarization systems process texts. 
+Word Co occurrence Words can be related if they occur in common contexts. 
+This kind of tasks are also known as user focused or query driven summarization,  in contrast to generic or unbiased summarization,  which is text driven. 
+Thus,  there is a need for automatic text summarization for the languages in order to subdue this constantly increasing amount of electronically produced text. 
+It seems obvious that sentence selection will not create fluent,  coherent text. 
+In (Yeh et-al. 2005):
+outperforms keyword based text summarization approaches. 
+In this paper,  we propose two text summarization approaches. 
+Text summarization had its inception in s. 
+This paper proposes two approaches to address text summarization. 
+The format of summaries is another criterion to differentiate text summarization approaches. 
+Table 1 shows the outputs of our approaches in different phases of the text summarization process. 
+There are two sorts of methods to evaluate the performance of text summarization. 
+Two new ideas are employed to improve conventional corpus based text summarization. 
+In this paper,  we propose two novel methods to achieve automatic text summarization. 
+In this experiment,  the feasibility of applying LSA to text summarization is evaluated. 
+Text summarization Corpus based approach Latent semantic analysis Text relationship map. 
+The effect of LSA in text summarization is illustrated with an example shown in Table 17. 
+Text search and text summarization are two essential technologies to address this problem. 
+In recent years,  a variety of text summarization methods has been proposed and evaluated. 
+According to the level of text processing,  Mani and May bury(  1999)  categorized text summarization approaches into surface,  entity,  and discourse levels. 
+In (Wang and Li 2012):
+• Weighted consensus summarization(  WCS). 
+Multi document summarization Weighted consensus. 
+Multi document summarization has been widely studied recently. 
+In this paper we focus on extractive multi document summarization. 
+Our proposed weighted consensus summarization is studied in Section 3. 
+Although various summarization approaches have been developed in literature,  few efforts have been reported on aggregating document summarization methods. 
+In this paper,  we use four individual summarization methods as the baselines. 
+There are several most widely used extractive summarization methods as follows. 
+A variety of multi document summarization methods have been developed in the literature. 
+In this paper,  we study four most widely used multi document summarization systems(  i e. 
+our proposed weighted consensus document summarization algorithm as described in Section 3. 
+Most rank aggregation approaches implicitly conduct majority voting to create the final rank. 
+Each of the individual summarization methods ranks the sentences based on different criteria. 
+For example,  the simplest approaches can average the scores or ranks from individual systems. 
+Thus extractive summaries are more feasible and has become the standard in document summarization. 
+In (Gupta and Lehal 2010):
+Text summarization. 
+In query based text summarization. 
+Automatic text summarization system. 
+Extractive text summarization process. 
+Text summarization with neural networks. 
+Query based extractive text summarization. 
+Multilingual Extractive Text summarization. 
+Bayesian summarization. 
+is a very important aspect for text summarization. 
+Automatic text summarization based on fuzzy logic. 
+An approach to concept obtained text summarization. 
+,  in a text is one of good feature for text summarization. 
+This paper focuses on extractive text summarization methods. 
+Text summarization based on fuzzy logic system architecture. 
+An Abs tractive summarization. 
+The ANES text extraction system. 
+Text summarization using regression for estimating feature weights. 
+Interest in automatic text summarization,  arose as early as the fifties. 
+Multi document extractive summarization. 
+An another query specific summarization. 
+Microsoft Word s AutoSummarize function is a simple example of text summarization. 
+Add the structural context of the sentence. 
+In this paper,  a Survey of Text Summarization Extractive techniques has been presented. 
+7-tMultilingual approaches for text summarization
+In (Kabadjov et-al. 2010):
+Then,  we describe the SVD model to summarization,  section 3. 
+In this paper we presented NewsGist,  a multilingual multi document summarization system purpose built for the Europe Media Monitor(  EMM). 
+We discuss the context and motivation for developing the system and provide an overview of its architecture. 
+In this paper we describe the summarization system currently under development for EMM,  which we have named NewsGist. 
+In this paper we present NewsGist,  a multilingual,  multi document news summarization system underpinned by the Singular Value Decomposition(  SVD)  paradigm for document summarization and purpose built for the Europe Media Monitor(  EMM). 
+The SVD approach has the advantage of being language independent and has proven to be an effective summarization method yielding stateoftheart performance in international evaluation efforts such as those of the Text Analysis Conference(  TAC). 
+The system employs text mining techniques to provide a picture of the present situation in the World(  as conveyed in the media). 
+In the search for a suitable summarization method we adopted a general processing model for summarization foreseeing three phases. 
+The summarization method employed yielded stateoftheart performance for English at the Update Summarization task of the last Text Analysis Conference(  TAC)  2009 and integrated with EMM represents the first online summarization system able to produce summaries for so many languages. 
+In SVDbased summarization the interpretation phase takes the form of building a termbysentence matrix A = A,  A,  ...,  An,  where Aj = a j,  a j,  ...,  anj. 
+In (Gupta V 2013):
+Automatic text summarization. 
+Hybrid Algorithm for multilingual HindiPunjabi Text Summarization. 
+function is a simple example of text summarization system for English. 
+There are nine features used in hybrid algorithm for multilingual summarization of Hindi and Punjabi text. 
+An extractive summarization method. 
+This paper concentrates on hybrid algorithm for multilingual extractive summarization of Hindi and Punjabi text. 
+Text in blue line indicates title line. 
+Text in black color indicates Hindi text. 
+Text in Red color indicates Punjabi text. 
+Most of these text summarization systems are for English and other foreign languages. 
+Various features used for summarizing multilingual HindiPunjabi text are given below. 
+Worthiness of lengthy documents can quickly and easily be judged using text summarization. 
+When it comes to Indian languages,  automatic text summarization systems are still lacking. 
+Text summarization methods can be classified into extractive and abs tractive summarization. 
+Nine features used in this algorithm for summarizing multilingual Hindi and Punjabi text are. 
+It is first time that this hybrid algorithm for multilingual text summarization has been proposed which supports both Hindi and Punjabi text. 
+Various features used in this algorithm for summarizing multilingual Hindi and Punjabi text are. 
+has been used as model to estimate the text features weights for HindiPunjabi text summarization. 
+The algorithm for multilingual summarizer is hybrid algorithm for summarizing Hindi and Punjabi text. 
+In (Kallimani et-al. 2011):
+Automatic text summarization has been in existence since 1950. 
+We modeled the problem of text summarization as an IR problem. 
+The many other uses of summarization are. 
+Sentence selection is considered to be an important step in automatic text summarization. 
+Here we propose to use statistical approaches. 
+This is the primary application of summarization. 
+Keyword extraction – It is a text mining task of NLP. 
+The solution to this problem is to combine the information retrieval tools with the automatic text summarization. 
+In this paper we discussed the different statistical approaches for abs tractive summarization in Telugu language. 
+Extractive and abs tractive summarization Stemming Information retrieval Automatic text summarization Word count frequency. 
+Zipf'  s Laws is a tool to predict the frequency of words in a text. 
+Text summarization provides the users with condensed description of documents and a non redundant presentation of facts found in the document. 
+So,  different approaches can be used for the development of efficient tagger. 
+The merits of automatic summarization of text are to control the size,  and prediction of content,  which could identify the relation between summarized text and the main text. 
+Hence identifying the context of word should be done in order to extract the word as key. 
+In (Gupta and Lehal 2010):
+Text summarization. 
+Multilingual Extractive Text summarization. 
+In query based text summarization. 
+Automatic text summarization system. 
+Extractive text summarization process. 
+Text summarization with neural networks. 
+Query based extractive text summarization. 
+Bayesian summarization. 
+is a very important aspect for text summarization. 
+Automatic text summarization based on fuzzy logic. 
+An approach to concept obtained text summarization. 
+is the multilingual summarization and evaluation method. 
+,  in a text is one of good feature for text summarization. 
+This paper focuses on extractive text summarization methods. 
+Text summarization based on fuzzy logic system architecture. 
+An Abs tractive summarization. 
+The ANES text extraction system. 
+Text summarization using regression for estimating feature weights. 
+Interest in automatic text summarization,  arose as early as the fifties. 
+An another query specific summarization. 
+Multi document extractive summarization. 
+Multilingual text summarization is to summarize the source text in different language to the target language final summary. 
+Microsoft Word s AutoSummarize function is a simple example of text summarization. 
+Add the structural context of the sentence. 
+In (Mani and Maybury 1999):
+Also noticeably absent is reference to web document summarization and any unique characteristics introduced by this medium. 
+It is expected that the proceedings from the May 2000 SummarizationWorkshop of ANLP will contain papers covering web document summarization. 
+The framework is based on understanding the essential context factors of Input(  form,  subject,  unit) ,  Purpose(  situation,  audience,  use) ,  and Output(  material,  format,  style). 
+The nal paper in this section report son reports on the TIPSTER evaluation task,  the largest summarization evaluation program conducted by an organization extrinsic to a system s developers. 
+Classical Approaches CorpusBased Approaches Exploiting DiscourseStructure; KnowledgeRich Approaches Evaluation Methods,  and New SummarizationProblem Areas.Following the general introduction is an excellent piece by Karen Spar ck Jones that provides a framework for understanding the task of summarization and calls for a doable research strategy that should serve to provide useful technology in the near future using what is already known in NLP. 
+8-tSummary evaluation
+8.1-tInformativeness evaluation
+In (Hovy et-al. 2006):
+A good automatic summarization evaluation procedure should be able to differentiate good systems from bad ones. 
+They show an increased correlation with human summary evaluation scores,  using a somewhat nonstandard measure. 
+Table 2 shows the correlation between BE and ROUGE,  a widely used and recognized automated summarization evaluation method(  Lin and Hovy,  2003). 
+This section describes an overall framework in which various implementations of automated summary content evaluation methods can be housed and compared. 
+The text summarization community has also searched for automatic summary evaluation methods that produce reliable scores that correlate well with human scoring. 
+ROUGE(  Lin and Hovy 2003) ,  the most frequently used automated summary evaluation package,  is closely modeled after BLEU for MT evaluation(  Papineni et al   2001). 
+Another important property that a good automated evaluation procedure possesses is that it must show good and consistent correlation across evaluations of different summarization tasks. 
+Experience in Machine Translation and automated speech recognition has shown the great value of an automated evaluation measure for rapid system growth and improvement(  Papineni et al,  2001). 
+In practice,  the evaluation procedure is given a set of system generated summaries and human written reference summaries,  and is required to provide a rank for the systems that created the summaries. 
+Lin and DemnerFushman(  2005)  recently developed POURPRE,  in which fragments are given an intrinsic score based on their innate informativeness,  computed by measuring the information content of individual words. 
+In this paper we describe framework in which various automated summary content evaluation methods can be situated,  and we implement a specific variant that uses rather short fragments we call Basic Elements(  BEs). 
+In this paper we describe a framework in which summary evaluation measures can be instantiated and compared,  and we implement a specific evaluation method using very small units of content,  called Basic Elements,  that address some of the shortcomings of ngrams. 
+Through shown to correlate well with human judgments,  ROUGE considers fragments,  of various lengths,  to be equally important,  a factor that rewards low informativeness fragments,  such as of the,  unfairly to relative high informativeness ones,  such as person names. 
+To examine the validity of our method,  we have tested the BE framework and its current implementation thoroughly using previous DUC evaluation results,  namely DUC2002 and 2003,  on single and multi document summarization tasks,  and very short headline generation task. 
+BEF. 
+As part of evaluating a summary automatically,  it is usual to determine how much of the contents of one or more human produced ideal summaries it contains. 
+BEF reifies embedded tentative nodes that express semantic subject or object with semantic nodes and performs extraction. 
+For a propositional phrase,  the head is related to its governing element by its preposition(  e g,  sanction against Libya produces a BE sanction | Libya | against). 
+For embedded clauses,  main verbs are related to the modifying verbs. 
+BEF extracts BEs from Mini par(  Lin,  1995)  dependency parse trees in which word relations are labeled as subj(  subject) ,  obj(  object) ,  comp(  complement) ,  mod(  modifier) ,  etc   Word pairs with their dependency relation are extracted to form a BE. 
+Processing Mini par parse information involves converting compound nouns and verbal idioms,  such as turn over'  and Secretary General' ,  to single tree nodes. 
+In particular,  some breakers provide relations as part of the triples and others do not. 
+These breakers produce slightly different results(  the common overlap is approximately 40%). 
+Each breaker accepts a sentence as input and produces a list of BEs by decomposing parse trees using hand built cutting rules. 
+• Microsoft parser(  Heidorn,  2000)  + cutting rules. 
+syntactic unit chunk er that includes cutting rules. 
+Mini par(  dependency tree,  with relations)  + JF cutting rules • Chunk er. 
+Charniak parser(  constituency tree)  + CYL cutting rules • BEF. 
+• BEL. 
+We implemented and experimented with various implementations for creating BEs—BE Breakers. 
+Starting small like this allows one to automate the process of unit identification and,  to some degree,  facilitates the matching of different equivalent expressions. 
+If there is no subject,  the semantic subject and the main verb form a BE with subject as the relation. 
+In the present implementation,  each BE gets exactly 1 point for each reference summary it participates in. 
+• lemma identity. 
+We have not experimented with different weights based on words information content,  etc,  although one can obviously do so. 
+Figure 1 shows the overall correlation between ROUGE,  BE,  responsiveness,  and the Pyramid method computed on those human and system generated summaries included in the Pyramid annotation effort(  only 20 doc sets and 25 automatic systems were included). 
+The ROUGE scores are macro averaged by NIST. 
+A high correlation is found,  as shown in Table 1. 
+HMR is set for(  headword | modifier | relation). 
+8.2-tQuality evaluation9-tEvaluation results
+8.3-tAsiya, an evaluation toolkit
+In (Graham 2015):
+System rankings diverge considerably from those of the original evaluation. 
+In addition,  an evaluation of the linguistic quality of summaries is commonly carried out. 
+This motivates our review of past and current methodologies applied to the evaluation of summarization metrics. 
+Since the inception of BLEU,  evaluation of automatic metrics in MT has been by correlation with human assessment. 
+An analysis of evaluation of summarization metrics was provided with an evaluation of BLEU and 192 variants of ROUGE. 
+Firstly,  to what degree was the divergence away from evaluation methodologies still applied to MT metrics today well founded. 
+Since data used in the evaluation of summarization systems is not independent,  paired tests are more appropriate and more powerful. 
+We provide an analysis of current evaluation methodologies applied to summarization metrics and identify the following areas of concern. 
+In order to evaluate metrics by correlation with human assessment,  it is necessary to obtain a single human evaluation score per system. 
+8.4-tText summarization evaluation programs
+In (Neto et-al. 2000):
+document clustering and text summarization. 
+First,  it applies case folding to the text. 
+theTIPSTER Text Summarization Evaluation Conference(  SUMMAC)  – hereafter referred to as the SUMMAC project for short Mani et al   98. 
+“ Text summarization is still an emerging field,  and serious questions remain concerning the appropriate methods and types of evaluation. 
+” is merely separating parts of atextual string - e g. 
+In order to make our experiments more relevant,  we have used the evaluation thee valuation framework of a large scale project for evaluating text summarization algorithms. 
+In this section we describe the results of an experiment carr ied out to evaluate our text summarization algorithm. 
+This paper describes a text mining tool that performs two tasks,  namely document clustering and text summarization. 
+Here the topic is provided as an input to the summarization system,  and the evaluation seeks to determine whether the ... 
+document clustering and text summarization Document clustering is performed by using the Auto class data mining algorithm. 
+The main differences between data mining and text mining is as follows. 
+a document clustering algorithm or a text summarization one The document clustering algorithm uses the Auto class algorithm Cheese man et al   88. 
+In addition,  we also weal so added to our system a text summarization algorithm,  which can be effectively used to summarize individual documents. 
+effective in determining the relevance of the full text source to a topic. 
+Section 6 introduces the method developed for text summarization,  and section 7 presents the results of experiments evaluating the performance of the system in this task. 
+The method is described in detail in section Note that the document clustering and the text summarization algorithms can be used together in a synergistic,  complementary way. 
+Sentences with high values of TFISF are selected to producea summary of the source text. 
+Then the user can run two kinds of text mining algorithms on the preprocessed documents. 
+Its main disadvantage is the fact that it loses important information about the original text. 
+Once the input documents have been preprocessed,  the system can perform two text mining tasks. 
+We now describe in detail the text summarization algorithm developed in our system Recall that the document has already undergone some text preprocessing,  as described in section insect ion 3. 
+determining the relevance of a document to a topic,  in some task related to text categorization). 
+In (Gupta and Lehal 2010):
+Text summarization. 
+In query based text summarization. 
+Automatic text summarization system. 
+Extractive text summarization process. 
+Summary evaluation. 
+Text summarization with neural networks. 
+Query based extractive text summarization. 
+Multilingual Extractive Text summarization. 
+Bayesian summarization. 
+Automatic text summarization based on fuzzy logic. 
+is a very important aspect for text summarization. 
+An approach to concept obtained text summarization. 
+is the multilingual summarization and evaluation method. 
+,  in a text is one of good feature for text summarization. 
+This paper focuses on extractive text summarization methods. 
+Text summarization based on fuzzy logic system architecture. 
+An Abs tractive summarization. 
+The ANES text extraction system. 
+Text summarization using regression for estimating feature weights. 
+Interest in automatic text summarization,  arose as early as the fifties. 
+Multi document extractive summarization. 
+An another query specific summarization. 
+Microsoft Word s AutoSummarize function is a simple example of text summarization. 
+Add the structural context of the sentence. 
+In this paper,  a Survey of Text Summarization Extractive techniques has been presented. 
+These features are important as,  a number of methods of text summarization are using them. 
+Text Summarization methods can be classified into extractive and abs tractive summarization. 
+Text Summarization methods can be classified into extractive and abs tractive summarization. 
+In query specific opinion summarization system. 
+is a good model to estimate the text feature weights. 
+The text summarization software should produce the effective summary in less time and with least redundancy. 
+An abs tractive summarization method consists of understanding the original text and retelling it in fewer words. 
+Multilingual text summarization is to summarize the source text in different language to the target language final summary. 
+It is an extraction based multi document summarization system. 
+Text Summarization is condensing the source text into a shorter version preserving its information content and overall meaning. 
+In (Graham 2015):
+This motivates our review of past and current methodologies applied to the evaluation of summarization metrics. 
+An analysis of evaluation of summarization metrics was provided with an evaluation of BLEU and 192 variants of ROUGE. 
+Since data used in the evaluation of summarization systems is not independent,  paired tests are more appropriate and more powerful. 
+We provide an analysis of current evaluation methodologies applied to summarization metrics and identify the following areas of concern. 
+System rankings diverge considerably from those of the original evaluation. 
+As part of this research,  we have made available an open source implementation of statistical tests for evaluation of summarization metrics,  at https. 
+Replication of a recent evaluation of stateoftheart summarization systems also revealed contrasting conclusions about the relative performance of systems. 
+In total,  therefore,  when employing ROUGE for the evaluation of summarization systems,  there are 192(  8 x 2 x 2 x 3 x 2)  possible system level variants to choose from. 
+We outline an evaluation methodology that overcomes all such challenges,  providing the first method of significance testing suitable for evaluation of summarization metrics. 
+In addition,  an evaluation of the linguistic quality of summaries is commonly carried out. 
+In contrast in summarization,  over the years since the introduction of ROUGE,  summarization evaluation has seen a variety of different methodologies applied to evaluation of its metrics. 
+9-tEvaluation results
+10-Future directions in text summarization
+REFERENCE
+False Abuobieda et-al. 2012 Abuobieda A, Salim N, Albaham AT, Osman AH, Kumar YJ (2012) Text summarization features selection method using pseudo genetic-based model. In: International conference on information retrieval knowledge management, pp 193–197
+0005 Aliguliyev 2009 Aliguliyev RM (2009) A new sentence similarity measure and sentence based extractive technique for automatic text summarization. Expert Syst Appl 36(4):7764–7772
+0068 Alguliev et-al. 2013 Alguliev RM, Aliguliyev RM, Isazade NR (2013) Multiple documents summarization based on evolutionary optimization algorithm. Expert Syst Appl 40:1675–1689. doi:
+0058 Alguliev et-al. 2011 Alguliev RM, Aliguliyev RM, Hajirahimova MS, Mehdiyev CA (2011) MCMR: maximum coverage and minimum redundant text summarization model. Expert Syst Appl 38:14514–14522. doi:
+0038 Almeida and Martins 2013 Almeida M, Martins AF (2013) Fast and robust compressive summarization with dual decomposition and multi-task learning. In: ACL (1), pp 196–206
+0074 Amigo et-al. 2005 Amigó E, Gonzalo J, Penas A, Verdejo F (2005) QARLA: a framework for the evaluation of text summarization systems. In: ACL ’05: proceedings of the 43rd annual meeting on association for computational linguistics, pp 280–289
+0000 Antiqueira et-al. 2009 Antiqueira L, Oliveira ON, Costa F, Volpe G (2009) A complex network approach to text summarization. Inf Sci 179:584–599. doi:
+0007 Azmi AM, Al-Thanyyan S 2012 Azmi AM, Al-Thanyyan S (2012) A text summarizer for Arabic. Comput Speech Lang 26:260–273. doi:
+0088 Bairi et-al. 2015 Bairi RB, Iyer R, Ramakrishnan G, Bilmes J (2015) Summarization of multi-document topic hierarchies using submodular. In: Proceedings of the 53rd annual meeting of the association for computational linguistics and the 7th international joint conference on natural language processing, pp 553–563
+0062 Banerjee et-al. 2015 Banerjee S Mitra P, Sugiyama K (2015) Multi-document abstractive summarization using ILP based multi-sentence compression. In: Proceedings of the 24th international joint conference on artificial intelligence (IJCAI 2015), pp 1208–1214
+0065 Baralis et-al. 2012 Baralis E, Cagliero L, Jabeen S, Fiori A (2012) Multi-document summarization exploiting frequent itemsets. In: Symposium on applied computing (SAC’12), pp 782–786
+0044 Baralis et-al. 2013 Baralis E, Cagliero L, Mahoto N, Fiori A (2013) GRAPHSUM : discovering correlations among multiple terms for graph-based summarization. Inf Sci 249:96–109. doi:
+0024 Barrera and Verma 2012 Barrera A, Verma R (2012) Combining syntax and semantics for automatic extractive single-document summarization. In: 13th international conference on computational linguistics and intelligent text processing. Springer, pp 366–377
+0061 Barzilay and Lapata 2005 Barzilay R, Lapata M (2005) Modeling local coherance: an entity-based approach. In: Proceedings of the 43rd annual meeting of the association for computational linguistics (ACL ’05), pp 141–148
+0008 Bing et-al. 2015 Bing L, Li P, Liao Y, Lam W, Guo W, Passonneau RJ (2015) Abstractive multi-document summarization via phrase selection and. arXiv preprint 
+0052 Boudin F, Morin E 2013 Boudin F, Morin E (2013) Keyphrase extraction for N-best reranking in multi-sentence compression. In: North American Chapter of the Association for Computational Linguistics (NAACL)
+0099 Brin and Page 1998 Brin S, Page L (1998) The anatomy of a large scale hypertextual web search engine. In: Proceedings of the 7th international conference on world wide web 7, pp 107–117
+0076 Cao et-al. 2015a Cao Z, Wei F, Dong L, Li S, Zhou M (2015a) Ranking with recursive neural networks and its application to multi-document summarization. In: Twenty-ninth AAAI conference on artificial intelligence
+0054 Cao et-al. 2015c Cao Z, Wei F, Li S, Li W, Zhou M, Wang H (2015c) Learning summary prior representation for extractive summarization. In: Proceedings of ACL: short papers, pp 829–833
+0101 Carbonell and Goldstein 1998 Carbonell JG, Goldstein J (1998) The use of MMR, diversity-based re-ranking for re-ordering documents and producing summaries. In: Proceedings of the 21st annual international ACM SIGIR conference on research and development in information retrieval, pp 335–336
+0090 Carenini et-al. 2007 Carenini G, Ng RT, Zhou X (2007) Summarizing email conversations with clue words. In: Proceedings of the 16th international conference on World Wide Web. ACM. pp 91–100
+0091 Carenini et-al. 2008 Carenini G, Ng RT, Zhou X (2008) Summarizing emails with conversational cohesion and subjectivity. ACL 8:353–361
+0020 Carlson et-al. 2003 Carlson L, Marcu D, Okurowski ME (2003) Building a discourse-tagged corpus in the framework of rhetorical structure theory. Springer, Netherlands, pp 85–112
+0018 Chan 2006 Chan SWK (2006) Beyond keyword and cue-phrase matching: a sentence-based abstraction technique for information extraction. Decis Support Syst 42:759–777. doi:
+0075 Dunlavy et-al. 2007 Dunlavy DM, O’Leary DP, Conroy JM, Schlesinger JD (2007) A system for querying, clustering and summarizing documents. Inf Process Manag 43:1588–1605
+0102 Fang et-al. 2015 Fang H, Lu W, Wu F et al (2015) Topic aspect-oriented summarization via group selection. Neurocomputing 149:1613–1619. doi:
+0042 Fattah and Ren 2009 Fattah MA, Ren F (2009) GA, MR, FFNN, PNN and GMM based models for automatic text summarization. Comput Speech Lang 23:126–144. doi:
+0014 Ferreira et-al. 2013 Ferreira R, De Souza L, Dueire R et al (2013) Assessing sentence scoring techniques for extractive text summarization. Expert Syst Appl 40:5755–5764. doi:
+0003 Ferreira et-al. 2014 Ferreira R, de Souza Cabral L, Freitas F et al (2014) A multi-document summarization system based on statistics and linguistic treatment. Expert Syst Appl 41:5780–5787. doi:
+0021 Frank et-al. 2012 Frank JR, Kleiman-Weiner M, Roberts DA, Niu F, Zhang C, Re C, Soboroff I (2012) Building an entity-centric stream filtering test collection for TREC 2012. MASSACHUSETTS INST OF TECH CAMBRIDGE
+0070 Fung P, Ngai G 2006 Fung P, Ngai G (2006) One story, one flow: hidden Markov Story Models for multilingual multidocument summarization. ACM Trans Speech Lang 3:1–16. doi:
+0072 Ganesan et-al. 2010 Ganesan K, Zhai C, Han J (2010) Opinosis : a graph-based approach to abstractive summarization of highly redundant opinions. In: Proceedings of the 23rd international conference on computational linguistics, pp 340–348
+0040 Genest PE, Lapalme G 2011 Genest PE, Lapalme G (2011) Framework for abstractive summarization using text-to-text generation. In: Proceedings of the workshop on monolingual text-to-text generation, Association for Computational Linguistics, pp 64–73
+0089 Giannakopoulos et-al. 2008 Giannakopoulos G, Karkaletsis V, Vouros G, Stamatopoulos P (2008) Summarization system evaluation revisited: N-gram graphs. ACM Trans Speech Lang Process 5:1–39
+0037 Glavaš G, Šnajder J 2014 Glavaš G, Šnajder J (2014) Event graphs for information retrieval and multi-document summarization. Expert Syst Appl 41:6904–6916. doi:
+0064 Goldstein et-al. 2000 Goldstein J, Mittal V, Carbonelll J, Kantrowitz M (2000) Multi-document summarization by sentence extraction. In: NAACL-ANLP 2000 workshop on automatic summarization. pp 40–48
+0077 Graham 2015 Graham Y (2015) Re-evaluating automatic summarization with BLEU and 192 shades of ROUGE. In: Proceedings of the 2015 conference on empirical methods in natural language processing. pp 128–137
+0022 Grosz et-al. 1995 Grosz BJ, Weinstein S, Joshi AK (1995) Centering: a framework for modeling the local coherence of discourse. Comput Linguist 21:203–225
+0045 Gupta V 2013 Gupta V (2013) Hybrid algorithm for multilingual summarization of Hindi and Punjabi documents. In: Mining intelligence and knowledge exploration. Springer International Publishing, pp 717–727
+0006 Gupta and Lehal 2010 Gupta V, Lehal GS (2010) A survey of text summarization extractive techniques. J Emerg Technol Web Intell 2:258–268. doi:
+0092 Gupta et-al. 2011 Gupta P, Pendluri VS, Vats I (2011) Summarizing text by ranking texts units according to shallow linguistic features. In: 13th international conference on advanced communication technology. pp 1620–1625
+0105 Hadi et-al. 2006 Hadi Y, Essannouni F, Thami ROH (2006) Unsupervised clustering by k-medoids for video summarization. In: ISCCSP’06 (the second international symposium on communications, control and signal processing)
+0108 Harabagiu S, Lacatusu F 2005 Harabagiu S, Lacatusu F (2005) Topic themes for multi-document summarization. In: SIGIR’ 05: proceedings of the 28th annual international ACM SIGIR conference on research and development in information retrieval. pp 202–209
+0031 He et-al. 2012 He Z, Chen C, Bu J, Wang C, Zhang L, Cai D, He X (2012) Document summarization based on data reconstruction. In: AAAI
+0098 Hearst 1997 Hearst M (1997) TextTiling: segmenting text into multi-paragraph subtopic passages. Comput Linguist 23:33–64
+0039 Heu et-al. 2015 Heu JU, Qasim I, Lee DH (2015) FoDoSu: multi-document summarization exploiting semantic analysis based on social Folksonomy. Inf Process Manag 51(1):212–225
+0087 Hirao et-al. 2013 Hirao T, Yoshida Y, Nishino M, Yasuda N, Nagata M (2013) Single-document summarization as a tree knapsack problem. EMNLP 13:1515–1520
+0048 Hong and Nenkova 2014 Hong K, Nenkova A (2014) Improving the estimation of word importance for news multi-document summarization. In: Proceedings of EACL
+0095 Hong et-al. 2015 Hong K, Marcus M, Nenkova A (2015) System combination for multi-document summarization. In: Proceedings of the 2015 conference on empirical methods in natural language processing. pp 107–117
+0015 Hovy et-al. 2006 Hovy E, Lin CY, Zhou L, Fukumoto J (2006) Automated summarization evaluation with basic elements. In: Proceedings of the 5th international conference on language resources and evaluation (LREC), pp 81–94
+0060 Huang et-al. 2010 Huang L, He Y, Wei F, Li W (2010) Modeling document summarization as multi-objective optimization. In: Proceedings of the third international symposium on intelligent information technology and security informatics, pp 382–386
+0069 Kabadjov et-al. 2010 Kabadjov M, Atkinson M, Steinberger J et al. (2010) NewsGist: a multilingual statistical news summarizer. Lecture notes in computer science (including including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics) 6323 LNAI, pp 591–594. doi:
+0084 Kaljahi et-al. 2014 Kaljahi R, Foster J, Roturier J (2014) Semantic role labelling with minimal resources: experiments with french. In: Lexical and computational semantics (*SEM 2014), p 87
+0049 Kallimani et-al. 2011 Kallimani JS, Srinivasa KG, Eswara Reddy B (2011) Information extraction by an abstractive text summarization for an Indian regional language. In: Natural language processing and knowledge engineering (NLP-KE), 2011 7th international conference on IEEE, pp 319–322
+0073 Kedzie et-al. 2015 Kedzie C, McKeown K, Diaz F (2015) Predicting salient updates for disaster summarization. In: Proceedings of the 53rd annual meeting of the ACL and the 7th international conference on natural language processing. pp 1608–1617
+0001 Khan et-al. 2015 Khan A, Salim N, Jaya Kumar Y (2015) A framework for multi-document abstractive summarization based on semantic role labelling. Appl Soft Comput 30:737–747. doi:
+0016 Kim and Hovy 2005 Kim SM, Hovy E (2005) Automatic detection of opinion bearing words and sentences. In: Companion volume to the proceedings of the international joint conference on natural language processing (IJCNLP), pp 61–66
+0056 Ko and Seo 2004 Ko Y, Seo J (2004) Learning with unlabeled data for text categorization using a bootstrapping and a feature projection technique. In: Proceedings of the 42nd annual meeting of the association for computational linguistics (ACL 2004). pp 255–262
+0103 Ko et-al. 2003 Ko Y, Kim K, Seo J (2003) Topic keyword identification for text summarization using lexical clustering. IEICE Trans Inf Syst E86-D:1695–1701
+0027 Kulesza and Taskar 2012 Kulesza A, Taskar B (2012) Determinantal point processes for machine learning. arXiv preprint 
+0047 Kulkarni and Prasad 2010 Kulkarni UV, Prasad RS (2010) Implementation and evaluation of evolutionary connectionist approaches to automated text summarization. J Comput Sci 6:1366–1376
+0055 Lee and Seung 1999 Lee DD, Seung HS (1999) Learning the parts of objects by non-negative matrix factorization. Nature 401(6755):788–791
+0082 Leite and Rino 2006 Leite DS, Rino LHM (2006) Selecting a feature set to summarize texts in Brazilian Portuguese. Advances in artificial intelligence-IBERAMIA-SBIA 2006:462–471
+0036 Li et-al. 2007 Li JW, Ng KW, Liu Y, Ong KL (2007) Enhancing the effectiveness of clustering with spectra analysis. IEEE Trans Knowl Data Eng 19:887–902
+0033 Li et-al. 2013 Li C, Liu F, Weng F, Liu Y (2013) Document summarization via guided sentence compression. In: EMNLP, pp 490–500
+0106 Li et-al. 2015a Li C, Liu Y, Zhao L (2015a) Using external resources and joint learning for bigram weighting in ilp-based multi-document summarization. In: Proceedings of NAACL-HLT, pp 778–787
+0078 CR92 Li P, Bing L, Lam W, Li H, Liao Y (2015b) Reader-aware multi-document summarization via sparse coding. arXiv preprint 
+0080 Lin 2004 Lin CY (2004) ROUGE: a package for automatic evaluation of summaries. In: Proceedings of ACL text summarization workshop, pp 74–81
+0066 Lin and Bilmes 2010 Lin H, Bilmes J (2010) Multi-document summarization via budgeted maximization of submodular functions. In: Human language technologies: the 2010 annual conference of the North American chapter of the association for computational linguistics, Association for Computational Linguistics, pp 912–920
+0010 Liu et-al. 2009 Liu X, Webster JJ, Kit C (2009) An extractive text summarizer based on significant words. In: Proceedings of the 22nd international conference on computer processing of oriental languages, language technology for the knowledge-based economy, Springer, pp 168–178
+0063 Liu et-al. 2015 Liu H, Yu H, Deng ZH (2015) Multi-document summarization based on two-level sparse representation model. In: Twenty-ninth AAAI conference on artificial intelligence
+0011 CR100 Lloret E, Palomar M (2011a) Analyzing the use of word graphs for abstractive text summarization. In: IMMM 2011, first international conference, pp 61–66
+0100 Luhn 1958 Luhn H (1958) The automatic creation of literature abstracts. IBM J Res Dev 2:159–165
+0009 Mani and Maybury 1999 Mani I, Maybury M (1999) Advances in automatic text summarization. MIT Press, Cambridge
+0097 Mihalcea and Tarau 2004 Mihalcea R, Tarau P (2004) TextRank: bringing order into texts. In: Conference on empirical methods in natural language processing. pp 404–411
+0083 Moawad IF, Aref M 2012 Moawad IF, Aref M (2012) Semantic graph reduction approach for abstractive Text Summarization. In: Proceedings of ICCES 2012, 2012 International Conference on Computer Engineering and Systems, pp 132–138. doi:
+0013 Murdock 2006 Murdock VG (2006) Aspects of sentence retrieval. University of Massachusetts, Amherst
+0029 Neto et-al. 2000 Neto JL, Santos AD, Kaestner CAA, Freitas AA (2000) Document clustering and text summarization. In: Proceedings of the fourth international conference practical applications of knowledge discovery and data mining (padd-2000), pp 41–55
+0085 Nobata et-al. 2001 Nobata C, Satoshi S, Murata M, Uchimoto K, Utimaya M, Isahara H (2001) Sentence extraction system asssembling multiple evidence. In: Proceedings 2nd NTCIR workshop, pp 319–324
+0019 Otterbacher et-al. 2009 Otterbacher J, Erkan G, Radev DR (2009) Biased LexRank: passage retrieval using random walks with question-based priors. Inf Process Manag 45(1):42–54
+0012 Ouyang et-al. 2011 Ouyang Y, Li W, Li S, Lu Q (2011) Applying regression models to query-focused multi-document summarization. Inf Process Manag 47:227–237
+0025 Owczarzak K 2009 Owczarzak K (2009) DEPEVAL summ: dependency-based evaluation for automatic summaries. In: Proceedings of the joint conference of the 47th annual meeting of the ACL and the 4th international joint conference on natural language processing of the AFNLP. pp 190–198
+0071 Pang and Lee 2008 Pang B, Lee L (2008) Opinion mining and sentiment analysis. Found Trends Inf Retr 2:1–135
+0043 Pardo et-al. 2003b Pardo TAS, Rino LHM, Nunes MGV (2003b) Gistsumm: a summarization tool based on a new extractive method. In: Proceedings of the sixth workshop on computational processing of written and spoken portuguese (propor), 2721 of LNAI, pp 210–218
+0051 Parveen and Strube 2015 Parveen D, Strube M (2015) Integrating importance, non-redundancy and coherence in graph-based extractive summarization. In: Proceedings of the 24th international conference on artificial intelligence. AAAI Press. pp 1298–1304
+0002 Patel et-al. 2007 Patel A, Siddiqui T, Tiwary US (2007) A language independent approach to multilingual text summarization. In: Large scale semantic access to content (text, image, video, and sound), pp 123–132
+0109 Radev et-al. 2001 Radev DR, Fan W, Zhang Z, Arbor A (2001) WebInEssence: a personalized web-based multi-document summarization and recommendation system. In: NAACL 2001 workshop on automatic summarization, pp 79–88
+0059 Radev et-al. 2004a Radev D, Allison T, Goldensohn B et al. (2004a) MEAD: a platform for multidocument multilingual text summarization. Proc Lr, 1–4
+0023 CR132 Radev DR, Jing HY, Stys M, Tam D (2004b) Centroid-based summarization of multiple documents. Inf Process Manag 40:919–938
+0057 Riedhammer et-al. 2010 Riedhammer K, Favre B, Hakkani-Tur D (2010) Long story short- global unsupervised models for keyphrase based meeting summarization. Speech Commun 52:801–815
+0093 Rino and Modolo 2004 Rino LHM, Modolo M (2004) Supor: an environment for as of texts in brazilianportuguese. In: Espana for natural language processsing (EsTAL). pp 419–430
+0004 Rush et-al. 2015 Rush AM, Chopra S, Weston J (2015) A neural attention model for abstractive sentence summarization. arXiv preprint 
+0026 Sanderson M, Croft WB 1999 Sanderson M, Croft WB (1999) Deriving concept hierarchies from text. Proceedings of SIGIR 1999:206–213
+0094 Sarkar 2010 Sarkar K (2010) Syntactic trimming of extracted sentences for improving extractive multi-document summarization. J Comput 2:177–184
+0050 Shen et-al. 2011 Shen C, Li T, Ding CH (2011) Integrating clustering and multi-document summarization by bi-mixture probabilistic latent semantic analysis PLSA with sentence bases. In: AAAI
+0032 Shen et-al. 2007 Shen D, Sun J-T, Li H et al. (2007) Document summarization using conditional random fields. In: Proceedings of 20th international joint conference on artificial intelligence. pp 2862–2867
+0081 Simon et-al. 2007 Simon I, Snavely N, Seitz SM (2007) Scene summarization for online image collections. In: Computer vision, 2007. ICCV 2007. IEEE 11th international conference on. IEEE. pp 1–8
+0053 Sipos et-al. 2012 Sipos R, Shivaswamy P, Joachims T (2012) Large-margin learning of submodular summarization models. In: Proceedings of the 13th conference of the European chapter of the association for computational linguistics, Association for Computational Linguistics, pp 224–233
+0041 Song et-al. 2011 Song W, Choi LC, Park SC, Ding XF (2011) Fuzzy evolutionary optimization modeling and its applications to unsupervised categorization and extractive summarization. Expert Syst Appl 38:9112–9121
+0028 Storn R, Price K 1997 Storn R, Price K (1997) Differential evolution-a simple and efficient heuristic for global optimization over continuous spaces. J Glob Optim 11(4):341–359
+0110 Wang and Li 2012 Wang D, Li T (2012) Weighted consensus multi-document summarization. Inf Process Manag 48:513–523
+0046 Yang et-al. 2013 Yang C, Shen J, Peng J, Fan J (2013) Image collection summarization via dictionary learning for sparse representation. Pattern Recognit 46(3):948–961
+0034 Yang et-al. 2014 Yang L, Cai X, Zhang Y, Shi P (2014) Enhancing sentence-level clustering with ranking-based clustering framework for theme-based summarization. Inf Sci 260:37–50. doi:
+0030 Ye et-al. 2007 Ye S, Chua TS, Kan MY, Qiu L (2007) Document concept lattice for text understanding and summarization. Inf Process Manag 43:1643–1662. doi:
+0096 Yeh et-al. 2005 Yeh J-Y, Ke H-R, Yang W-P, Meng I-H (2005) Text summarization using a trainable summarizer and latent semantic analysis. Inf Process Manag 41:75–95. doi:
+0086 Zajic et-al. 2008 Zajic DM, Dorr BJ, Lin J (2008) Single-document and multi-document summarization techniques for e-mail threads using sentence compression. Inf Process Manag 44:1600–1610
+0107 Zhao et-al. 2009 Zhao L, Wu L, Huang X (2009) Using query expansion in graph-based approach for query-focused multi-document summarization. Inf Process Manag 45(1):35–41

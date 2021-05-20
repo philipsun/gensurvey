@@ -1,5 +1,5 @@
 root
-Recent automatic text summarization techniques: a survey
+Recent automatic text summarization techniques: a survey 
 1-tIntroduction
 1.1-tNeed of text summarization
 In (Kallimani et-al. 2011):
